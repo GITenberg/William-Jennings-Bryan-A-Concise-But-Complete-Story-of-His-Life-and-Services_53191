@@ -1,0 +1,23 @@
+_repo: William-Jennings-Bryan-A-Concise-But-Complete-Story-of-His-Life-and-Services_53191
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Newbranch, Harvey Ellsworth
+    gutenberg_agent_id: '47255'
+    url: http://www.gutenberg.org/2009/agents/47255
+description: ''
+gutenberg_issued: '2016-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53191'
+  lccn: '01031653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bryan, William Jennings, 1860-1925'
+- !lcc 'E660'
+- GITenberg
+title: 'William Jennings Bryan: A Concise But Complete Story of His Life and Services'
+url: http://www.gutenberg.org/ebooks/53191
